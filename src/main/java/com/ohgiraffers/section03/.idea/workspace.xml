@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a931699-c3eb-4bfb-9c9d-e2815d286fa5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../section01/method/Application06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section01/method/Application07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section01/method/Application08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section01/method/Application09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section01/method/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section02/package_and_import/Application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section02/package_and_import/Application02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/Application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/Application02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/Application03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section01/method/Application05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../section01/method/Application05.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2bzC4x6iUU5HLzaPSybGck0Owsh" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Lecture/01_java/01_Lecture-source/chap03-method-and-api-lecture-source",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a931699-c3eb-4bfb-9c9d-e2815d286fa5" name="Changes" comment="" />
+      <created>1707208332981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707208332981</updated>
+      <workItem from="1707208333937" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
