@@ -2,6 +2,8 @@ package com.ohgiraffers.section02.package_and_import;
 
 import com.ohgiraffers.section01.method.Calculator;
 
+import java.util.Scanner;
+
 public class Application02 {
     public static void main(String[] args) {
          /*수업목표. import 에 대해 알아볼 수 있다.*/
@@ -16,5 +18,7 @@ public class Application02 {
 
         /*목차. 1. non-static method 의 경우*/
         Calculator calc = new Calculator();
+
+        Scanner sc = new Scanner(System.in); //알트 엔터 누르면 임포트 클래스 뜸 (오류나면 하셈)
     }
 }
